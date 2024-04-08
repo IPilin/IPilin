@@ -23,4 +23,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Recent Projects
-<a src="flow-fields-js">Flow-Fields</a>
+- <a href="https://github.com/IPilin/flow-fields-js" target="_blank">Flow-Fields</a>
